@@ -1,0 +1,13 @@
+group_id,selection
+spike_00,"(segid A100 A200 B100 B200 C100 C200) and name CA"
+spike_01,"(segid A101 A201 B101 B201 C101 C201) and name CA"
+albumin_001,"segid ALB1 and name CA"
+mucin_001,"segid MUC1 and name CA"
+calcium,"resname CAL"
+magnesium,"resname MG"
+sodium,"resname SOD"
+potassium,"resname POT"
+chloride,"resname CLA"
+dppc_phosphate,"resname DPPC and name P"
+dppg_phosphate,"resname DPPG and name P"
+cholesterol_oxygen,"resname CHOL and name O3"

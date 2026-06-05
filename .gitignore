@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# large MD files
+*.dcd
+*.xtc
+*.trr
+*.nc
+*.netcdf
+*.vel
+*.coor
+*.xsc
+*.restart
+
+# large topology/system files if needed
+*.psf
+*.prmtop
+*.parm7
+
+# outputs
+results/*
+!results/README.md
