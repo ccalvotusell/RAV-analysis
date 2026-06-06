@@ -9,7 +9,7 @@ The script expects a CSV file with two columns:
 
     group_id,selection
 
-where `selection` is a valid MDAnalysis atom selection string.
+where 'selection' is a valid MDAnalysis atom selection string.
 
 Example:
     python compute_diffusion.py \
@@ -21,8 +21,6 @@ Example:
         --output results/diffusion
 
 Notes:
-    - Diffusion coefficients are estimated from MSD = 2*d*D*t.
-    - By default d = 3, so MSD = 6Dt.
     - Input trajectories should be imaged/aligned consistently before analysis.
 """
 
