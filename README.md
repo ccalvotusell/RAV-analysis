@@ -366,8 +366,8 @@ This repository is released under the **Apache License 2.0**. See the `LICENSE` 
 
 If you use this repository, please cite the manuscript:
 
-**Billion-atom simulations reveal condensate-like organization in virus-laden respiratory aerosols**
-Wauer, N. A.‡; Calvó-Tusell, C.‡; Dommer, A. C.; Casalino, L.; Kearns, F. L.; Caparotta, M.; Rosenfeld, M. A.; Morris, C. K.; Amaro, R. E. (https://www.biorxiv.org/content/10.64898/2026.04.30.721971v1)
+**Billion-atom simulations reveal condensate-like organization in virus-laden respiratory aerosols**, Wauer, N. A.‡; Calvó-Tusell, C.‡; Dommer, A. C.; Casalino, L.; Kearns, F. L.; Caparotta, M.; Rosenfeld, M. A.; Morris, C. K.; Amaro, R. E. (‡Equally contributed authors) 
+<https://www.biorxiv.org/content/10.64898/2026.04.30.721971v1>
 
 
 ## Contact
