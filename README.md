@@ -19,14 +19,6 @@ Original PDB/topology/trajectory data are available from:
 
 This GitHub repository provides the analysis code, lightweight configuration files, component-mapping files, and manuscript source-data tables where possible. Full reproduction of the trajectory-dependent analyses requires downloading the large input files from the data archives above.
 
-## Spike conformational dynamics
-
-Spike conformational dynamics analyses are provided in a dedicated public GitHub repository:
-
-<https://github.com/lcasalino/spike-conformational-dynamics>
-
-That repository contains the VMD/Tcl scripts and plotting notebook used to calculate spike hip, knee, and ankle tilting, NTD triangle area, and RBD–central-helix distance for the RAV and single-spike simulations.
-
 ## Repository contents
 
 ```text
