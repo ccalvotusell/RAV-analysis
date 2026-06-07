@@ -4,6 +4,12 @@ Analysis scripts and supporting workflows for the manuscript:
 
 **Billion-atom simulations reveal condensate-like organization in virus-laden respiratory aerosols**
 
+<p align="center">
+  <img src="assets/RAV_overview.png" width="850">
+</p>
+
+The RAV system contains a SARS-CoV-2 Delta virion embedded within a chemically complex respiratory aerosol matrix composed of mucins, albumin, surfactant lipids, ions, and water.
+
 This repository contains analysis scripts used to characterize molecular transport, lipid self-organization, protein aggregation, spike contact-shell composition, preference indices, residue-level spike hotspots, and related source-data workflows for the Respiratory Aerosol Virus (RAV) molecular dynamics simulation.
 
 The repository is designed to make the manuscript analysis transparent and reproducible while keeping very large simulation files outside GitHub. Full trajectories, topologies, and original coordinate files are provided through external data archives.
