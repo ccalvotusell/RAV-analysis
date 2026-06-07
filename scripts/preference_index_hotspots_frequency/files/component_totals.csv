@@ -1,0 +1,17 @@
+Component,Total Available,Include in default PI
+Albumin,550,yes
+Spike,29,yes
+Mucin,345,yes
+D Mucin,147,no
+Q Mucin,101,no
+T Mucin,97,no
+M Prot,720,yes
+E Prot,20,yes
+DPPG,24807,yes
+DPPC,236055,yes
+CHL,21213,yes
+CAL,44827,yes
+CLA,4885636,yes
+SOD,4627417,yes
+MG,27281,yes
+POT,179254,yes
