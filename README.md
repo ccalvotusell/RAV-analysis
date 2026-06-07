@@ -21,7 +21,7 @@ Large RAV simulation files are not stored in this GitHub repository because the 
 Original PDB/topology/trajectory data are available from:
 
 - Amaro Lab data portal: <https://amarolab.ucsd.edu/data.php>
-- Zenodo archive: **[10.5281/zenodo.20576318]**
+- Zenodo archive: <https://doi.org/10.5281/zenodo.20576318>
 
 This GitHub repository provides the analysis code, lightweight configuration files, component-mapping files, and manuscript source-data tables where possible. Full reproduction of the trajectory-dependent analyses requires downloading the large input files from the data archives above.
 
